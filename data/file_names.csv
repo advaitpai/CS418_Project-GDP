@@ -1,0 +1,9 @@
+share_prices.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.SHPRICE.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+inflation_cpi.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.CPI.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+long_term_ir.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.LTINT.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+labour_force.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.LF.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+trade_in_gs.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.TRADEGOODSERV.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+household_spend.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.HHEXP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+government_spend.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.GGEXP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+tax_revenue.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.TAXREV.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+investment_sector.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.GFCFSECTOR.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
