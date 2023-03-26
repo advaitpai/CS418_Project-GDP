@@ -7,3 +7,5 @@ household_spend.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.HHEXP.../OECD
 government_spend.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.GGEXP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
 tax_revenue.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.TAXREV.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
 investment_gfcf.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.GFCF.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+gdp_yearly.csv,https://stats.oecd.org/sdmx-json/data/DP_LIVE/.GDP.../OECD?contentType=csv&detail=code&separator=comma&csv-lang=en
+economic_category.xlsx,https://databankfiles.worldbank.org/public/ddpext_download/site-content/OGHIST.xls
